@@ -2,7 +2,8 @@
 report of searching algorithms include QuickSort, MergeSort, HeapSort, and IntroSort.
 
 ## data folder
-data folder includes ten (10) sets of data. Each set contains 1 milion (1000000) real numbers (double type). </br>
+data folder includes ten (10) sets of data. Each set contains 1 milion (1000000) random real numbers (double type). </br>
+one set is sorted in ASC order, one set is sorted in DSC order, and 8 sets left are in random order. <br/>
 data folder also contains a program to generate all ten sets above.
 
 ## speed_rate folder
