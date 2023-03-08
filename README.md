@@ -1,4 +1,6 @@
 # report_of_searching_algorithms
+***CAUTIONS1: ALL VALUES IN THIS ARE UNCERTAIN TO LEAD TO ANY FACT TO DETERMINE WHICH ALGORITHM IS "THE BEST" FOR ALL CASES. <br/>
+***CAUTIONS2: ALL VALUES ARE RESULTS WHEN RUNNING THIS COMPARISON IDEA ON MY OLD AND POOR LAPTOP. <br/>
 report of searching algorithms include QuickSort, MergeSort, HeapSort, and IntroSort.
 
 ## data folder
