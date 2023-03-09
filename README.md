@@ -13,7 +13,7 @@ speed_rate folder includes {algorithm}.txt. <br/>
 {algorithm}.txt contains ten (10) given back values of using {algorithm} to sort ten (10) dataset.
 
 ## algorithms
-HeapSort.cpp, IntroSort.cpp, MergeSort.cpp, and QuickSort.cpp
+HeapSort.cpp, IntroSort.cpp, MergeSort.cpp, and QuickSort.cpp (random pivot)
 
 ## visualization given back values
 chart.py: using given back values to draw a line graph which is Figure_1.png. <br/>
